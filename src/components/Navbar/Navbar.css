@@ -1,9 +1,13 @@
 .navbar {
-    background: #6C809A;
+    background: #414A4C;
+    margin: 0 auto;
     font-size: 18px;
-    padding: 20px 0;
+    padding: 15px 0;
     width: 100%;
-    color: #8AA1b1;
+    color: #fff;
+    font-family: 'Special Elite', cursive;
+    display: flex;
+    justify-content: space-around;
 }
 
 .navbar div {
@@ -22,8 +26,8 @@
 
 @keyframes correctGuess {
     0% { color: #8AA1b1; }
-    25% { color: #DB7F8E; }
-    50% { color: #DB7F8E; }
+    25% { color: #8DAA91; }
+    50% { color: #8DAA91; }
     100% { color: #8AA1b1; }
 }
 
@@ -33,15 +37,14 @@
 
 @keyframes incorrectGuess {
     0% { color: #8AA1b1; }
-    25% { color: #8DAA91; }
-    50% { color: #8DAA91; }
+    25% { color: #DB7F8E; }
+    50% { color: #DB7F8E; }
     100% { color: #8AA1b1; }
 }
 
-@media (min-width: 576px) {
+/* @media (min-width: 576px) {
     .navbar {
         display: flex;
-        position: fixed;
         justify-content: space-around;
     }
 
@@ -50,4 +53,4 @@
         text-align: center;
         width: 33.333%;
     }
-}
+} */

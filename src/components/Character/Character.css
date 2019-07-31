@@ -5,6 +5,9 @@
     width: 200px;
     margin: 15px;
     overflow: hidden;
+    position: relative;
+    text-align: left;
+    /* display: flex; */
 }
 
 .card:hover {

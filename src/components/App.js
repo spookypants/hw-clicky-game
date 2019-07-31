@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
-import './App.css';
 import Navbar from './Navbar';
+import Banner from './Banner';
 import Container from './Container';
 import images from '../images';
 
@@ -87,6 +87,7 @@ class App extends Component {
             navMessage={state.navMessage}
             navMsg={state.navMsg}
           />
+          <Banner />
           <Container
             characters={state.allCharacters}
             clickEvent={this.clickEvent}

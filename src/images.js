@@ -9,7 +9,7 @@ import oops from './img/oops.jpg';
 import phone from './img/phone.jpg';
 import simpsons from './img/simpsons.jpg';
 import thoughtful from './img/thoughtful.jpg';
-import toy from './img/agent.jpg';
+import toy from './img/toy.jpg';
 
 const images = [
     agent,

@@ -1,7 +1,27 @@
 .banner {
     background-image: url('../../img/ufo-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -40px;
+    /* background-position: center; */
     margin: 0 auto;
     padding: 0;
-    color: #8AA1B1;
-    height: 200px;
+    height: 170px;
+    /* align-items: center; */
+
 }
+
+.banner p {
+    text-align: center;
+    line-height: 60px;
+    font-size: 20px;
+    /* justify-content: center; */
+    color: #333;
+}
+
+/* @media (min-width: 576px) {
+    .banner {
+        background-position: center;
+        height: 600px;
+    }
+} */
