@@ -1,0 +1,22 @@
+.card {
+    border: 2px solid #6C809A;
+    cursor: crosshair;
+    height: 200px;
+    width: 200px;
+    margin: 15px;
+    overflow: hidden;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    transition: 0.1s;
+}
+
+.card-img-top {
+    border-radius: 0;
+}
+
+.card-height {
+    height: 100%;
+    width: 100%;
+}
