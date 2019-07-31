@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/hw-clicky-game/static/css/main.2528f64c.chunk.css",
+    "main.js": "/hw-clicky-game/static/js/main.7aa048ae.chunk.js",
+    "main.js.map": "/hw-clicky-game/static/js/main.7aa048ae.chunk.js.map",
+    "runtime~main.js": "/hw-clicky-game/static/js/runtime~main.7fa38375.js",
+    "runtime~main.js.map": "/hw-clicky-game/static/js/runtime~main.7fa38375.js.map",
+    "static/js/2.b35c4eba.chunk.js": "/hw-clicky-game/static/js/2.b35c4eba.chunk.js",
+    "static/js/2.b35c4eba.chunk.js.map": "/hw-clicky-game/static/js/2.b35c4eba.chunk.js.map",
+    "index.html": "/hw-clicky-game/index.html",
+    "precache-manifest.2c13836acab8468f0af102ebd4f39071.js": "/hw-clicky-game/precache-manifest.2c13836acab8468f0af102ebd4f39071.js",
+    "service-worker.js": "/hw-clicky-game/service-worker.js",
+    "static/css/main.2528f64c.chunk.css.map": "/hw-clicky-game/static/css/main.2528f64c.chunk.css.map",
+    "static/media/agent.jpg": "/hw-clicky-game/static/media/agent.a50585ad.jpg",
+    "static/media/art.jpg": "/hw-clicky-game/static/media/art.ca6bd812.jpg",
+    "static/media/boy.jpg": "/hw-clicky-game/static/media/boy.0481c054.jpg",
+    "static/media/foxy.jpg": "/hw-clicky-game/static/media/foxy.6ced12bb.jpg",
+    "static/media/lego.jpg": "/hw-clicky-game/static/media/lego.d5920168.jpg",
+    "static/media/mock.jpg": "/hw-clicky-game/static/media/mock.b04c0c10.jpg",
+    "static/media/older.jpg": "/hw-clicky-game/static/media/older.7e85e71d.jpg",
+    "static/media/oops.jpg": "/hw-clicky-game/static/media/oops.e19e8515.jpg",
+    "static/media/phone.jpg": "/hw-clicky-game/static/media/phone.6b1f0ce6.jpg",
+    "static/media/simpsons.jpg": "/hw-clicky-game/static/media/simpsons.82e231bf.jpg",
+    "static/media/thoughtful.jpg": "/hw-clicky-game/static/media/thoughtful.5bd1e0d4.jpg",
+    "static/media/toy.jpg": "/hw-clicky-game/static/media/toy.01540d2f.jpg",
+    "static/media/Banner.css": "/hw-clicky-game/static/media/ufo-bg.9be9d58a.jpg"
+  }
+}
